@@ -1,0 +1,14 @@
+{
+    "name": "sudjunior/login",
+    "description": "Paquete de prueba albtw",
+    "type": "library",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "sudjunior",
+            "email": "pcsudjunior@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
