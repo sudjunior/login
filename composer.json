@@ -1,0 +1,16 @@
+{
+    "name": "sudjunior/login",
+    "description": "Login for albtw using laravel 1x",
+    "type": "library",
+    "require": {
+        "laravel/ui": "^4.5"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sudjunior",
+            "email": "pcsudjunior@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
